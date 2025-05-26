@@ -1,3 +1,3 @@
 # ACA
 
-Some of the projects made in ACA during our practice lessons. There're still many things to learn and improve
+First ACA projects written in py files. After some time I started to work in notebooks. Please look in Colab Notebooks repository. Implementations contain some early tries and mistakes.
